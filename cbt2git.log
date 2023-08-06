@@ -1,0 +1,7 @@
+2023-08-06 04:04:11.741316 - Initialized conversion of CBT436
+2023-08-06 04:04:11.785208 - Received CBT.V505.FILE436.PDS from FILE436.XMI 
+2023-08-06 04:04:11.787281 - Found $$$DOC.txt (text/plain) in CBT.V505.FILE436.PDS, moved to PDS/$$$DOC
+2023-08-06 04:04:11.788248 - Found $$NOTE.txt (text/plain) in CBT.V505.FILE436.PDS, moved to PDS/$$NOTE
+2023-08-06 04:04:11.789539 - Found @FILE436.txt (text/plain) in CBT.V505.FILE436.PDS, moved to PDS/@FILE436
+2023-08-06 04:04:11.790431 - Found ASMJCL.jcl (text/plain) in CBT.V505.FILE436.PDS, moved to PDS/ASMJCL
+2023-08-06 04:04:11.791386 - Found COMPCODE.txt (text/plain) in CBT.V505.FILE436.PDS, moved to PDS/COMPCODE
